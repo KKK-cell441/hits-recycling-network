@@ -1,0 +1,52 @@
+{
+  "total_pois": 3226,
+  "total_matched": 432,
+  "total_retired_volume": 978447.0790284628,
+  "cities": [
+    {
+      "city": "乌鲁木齐",
+      "poi_count": 619,
+      "matched_poi_count": 68,
+      "connected_brand_models": 66,
+      "edges": 198,
+      "connected_volume": 332804.34,
+      "coverage_ratio": 0.3401
+    },
+    {
+      "city": "兰州",
+      "poi_count": 597,
+      "matched_poi_count": 66,
+      "connected_brand_models": 73,
+      "edges": 188,
+      "connected_volume": 244618.14,
+      "coverage_ratio": 0.25
+    },
+    {
+      "city": "昆明",
+      "poi_count": 670,
+      "matched_poi_count": 92,
+      "connected_brand_models": 71,
+      "edges": 282,
+      "connected_volume": 347058.93,
+      "coverage_ratio": 0.3547
+    },
+    {
+      "city": "西安",
+      "poi_count": 683,
+      "matched_poi_count": 114,
+      "connected_brand_models": 68,
+      "edges": 397,
+      "connected_volume": 310458.91,
+      "coverage_ratio": 0.3173
+    },
+    {
+      "city": "贵阳",
+      "poi_count": 657,
+      "matched_poi_count": 92,
+      "connected_brand_models": 77,
+      "edges": 333,
+      "connected_volume": 319316.07,
+      "coverage_ratio": 0.3263
+    }
+  ]
+}

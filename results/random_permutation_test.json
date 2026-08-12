@@ -1,0 +1,9 @@
+{
+  "observed_rho": 0.5731602329733865,
+  "volume_permutation_null_mean": 0.482062032352691,
+  "volume_permutation_null_std": 0.026865551217715253,
+  "volume_permutation_p_value": 0.0,
+  "target_permutation_null_mean": -0.005705934869483889,
+  "target_permutation_p_value": 0.0,
+  "n_permutations": 200
+}

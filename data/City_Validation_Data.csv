@@ -1,0 +1,19 @@
+city,period,data_type,reported_value,unit,source_url,level
+Qingdao,2024,Actual scrappage,94000,vehicles,https://www.sohu.com/a/895712855_100180709,city-proxy
+Wuxi,2023,Municipal solid-waste bulletin: used vehicle power battery recovery,3072.3,tonnes,https://bee.wuxi.gov.cn/doc/2024/06/04/4323499.shtml,city
+Wuxi,2023,Cascade utilization,2789.8,tonnes,https://bee.wuxi.gov.cn/doc/2024/06/04/4323499.shtml,city
+Wuxi,2023,Regeneration,235.5,tonnes,https://bee.wuxi.gov.cn/doc/2024/06/04/4323499.shtml,city
+Wuxi,2023,Dismantling,101.7,tonnes,https://bee.wuxi.gov.cn/doc/2024/06/04/4323499.shtml,city
+Wuxi,2025,3 MIIT-standard enterprises recycling volume,9122.38,tonnes,http://gxt.hunan.gov.cn/gxt/xxgk_71033/gzdt/xintszs/202607/t20260716_34028049.html,city
+Wuxi,2025,Cascade utilization volume,7376.81,tonnes,http://gxt.hunan.gov.cn/gxt/xxgk_71033/gzdt/xintszs/202607/t20260716_34028049.html,city
+Wuxi,2025,Regeneration volume,1745.57,tonnes,http://gxt.hunan.gov.cn/gxt/xxgk_71033/gzdt/xintszs/202607/t20260716_34028049.html,city
+Wuxi,2025,Public collection service points,29,points,http://gxt.hunan.gov.cn/gxt/xxgk_71033/gzdt/xintszs/202607/t20260716_34028049.html,city
+Changsha,2024,Municipal solid-waste bulletin: used vehicle power battery recovery,148700,tonnes,http://hbj.changsha.gov.cn/zwpt/wrfz_30387/gtfwwrfz/202505/t20250530_11872022.html,city
+Changsha,2024,Cascade utilization,41200,tonnes,http://hbj.changsha.gov.cn/zwpt/wrfz_30387/gtfwwrfz/202505/t20250530_11872022.html,city
+Changsha,2024,Regeneration,107600,tonnes,http://hbj.changsha.gov.cn/zwpt/wrfz_30387/gtfwwrfz/202505/t20250530_11872022.html,city
+Wuhan,2024,Three MIIT whitelisted enterprises recovery,12300,tonnes,https://hbj.wuhan.gov.cn/fbjd_19/xxgkml/zwgk/wrfz/gtfwwrfz/202507/t20250710_2618231.html,city
+Wuhan,2024,Cascade utilization,7300,tonnes,https://hbj.wuhan.gov.cn/fbjd_19/xxgkml/zwgk/wrfz/gtfwwrfz/202507/t20250710_2618231.html,city
+Laiwu-district,2020-08 to 2020-11,De-identified scrapped truck records,211,records,https://data.sd.gov.cn/portal/catalog/d88cc43d579f45d7aa818e08101f08db,city-proxy
+Dongying,2025,Theoretical annual scrappage,39200,vehicles/year,https://www.sohu.com/a/897812302_100158378,theoretical
+Yantai,2018-2025,Dismantling companies,36,companies,https://data.sd.gov.cn/portal/catalog/20180710213950119000,directory
+Shandong,2019-2023,Cumulative scrappage,1148389,vehicles,https://data.sd.gov.cn/portal/catalog/20170921201628856700,province

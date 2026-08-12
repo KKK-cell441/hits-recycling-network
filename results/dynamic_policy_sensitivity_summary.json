@@ -1,0 +1,31 @@
+{
+  "n_draws": 5000,
+  "single_year_ratio": {
+    "median": 2.246,
+    "p5": 1.757,
+    "p95": 2.859,
+    "min": 1.545,
+    "max": 3.275
+  },
+  "three_year_dynamic_ratio": {
+    "median": 2.231,
+    "p5": 1.785,
+    "p95": 2.779,
+    "min": 1.542,
+    "max": 3.248
+  },
+  "three_year_net_gain_pp": {
+    "median": 19.23,
+    "p5": 13.769,
+    "p95": 25.944,
+    "min": 10.958,
+    "max": 29.609
+  },
+  "assumptions": {
+    "tier_costs": "uniform +/-20% around 40/70/130",
+    "tier_gains": "uniform +/-20% around 2/8/15 percentage points",
+    "t3_to_t2_rate": "uniform 0-0.4 per year",
+    "t2_to_t1_rate": "half of t3_to_t2 rate",
+    "years": 3
+  }
+}

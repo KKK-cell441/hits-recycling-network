@@ -1,0 +1,30 @@
+{
+  "Degree": {
+    "mean_rho": 0.8836,
+    "std_rho": 0.0513
+  },
+  "Betweenness": {
+    "mean_rho": 0.839,
+    "std_rho": 0.0473
+  },
+  "PageRank": {
+    "mean_rho": 0.5936,
+    "std_rho": 0.1086
+  },
+  "HITS": {
+    "mean_rho": 0.5155,
+    "std_rho": 0.0935
+  },
+  "GCN": {
+    "mean_rho": 0.0144,
+    "std_rho": 0.1908
+  },
+  "GAT": {
+    "mean_rho": -0.0388,
+    "std_rho": 0.5001
+  },
+  "TCN": {
+    "mean_rho": 0.9951,
+    "std_rho": 0.0042
+  }
+}

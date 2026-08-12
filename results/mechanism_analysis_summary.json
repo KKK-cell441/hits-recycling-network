@@ -1,0 +1,17 @@
+{
+  "n_connected_stores": 100,
+  "ols_r2": 0.4010279677394911,
+  "rf_oob_r2": 0.8078097329074501,
+  "rf_cv_r2_mean": 0.73139941446232,
+  "rf_cv_r2_std": 0.18774806919825732,
+  "standardized_coefficients": {
+    "new_energy_related": 0.02947765148187087,
+    "degree": 1.7813628421690904,
+    "component_stores": -0.7126554409788588
+  },
+  "rf_feature_importance": {
+    "new_energy_related": 0.08202502374607039,
+    "degree": 0.686829468635893,
+    "component_stores": 0.23114550761803676
+  }
+}

@@ -1,0 +1,4 @@
+test,n_permutations,observed_rho,null_mean,null_sd,raw_p_value,z_score,holm_adjusted_p
+target_permutation,1000,0.5732,-0.0011,0.0839,0.0,6.845,0.0
+volume_permutation,1000,0.5732,0.4838,0.0275,0.001,3.249,0.002
+edge_rewiring,500,0.5732,0.7732,0.0313,1.0,-6.384,1.0

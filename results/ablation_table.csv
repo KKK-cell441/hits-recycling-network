@@ -1,0 +1,7 @@
+variant,spearman_rho
+Weighted HITS + component adjustment,0.5732
+Weighted HITS without component adjustment,0.4122
+Unweighted HITS + component adjustment,0.5904
+Unweighted HITS without component adjustment,0.4038
+Degree centrality,0.8916
+Equal-share brand volume,1.0

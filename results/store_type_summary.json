@@ -1,0 +1,13 @@
+{
+  "total_stores": 132,
+  "new_energy_related": 77,
+  "fuel_only": 55,
+  "connected_total": 100,
+  "connected_new_energy": 77,
+  "connected_fuel_only": 23,
+  "new_energy_share_of_hub_top20": 0.95,
+  "new_energy_mean_hub": 4.7787848064852225,
+  "fuel_only_mean_hub": 2.0846752650291887,
+  "new_energy_mean_volume": 8179.868700725944,
+  "fuel_only_mean_volume": 776.6330011477952
+}

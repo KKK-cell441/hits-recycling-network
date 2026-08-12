@@ -1,0 +1,43 @@
+{
+  "ablation": {
+    "Weighted HITS + component adjustment": 0.5731602329733865,
+    "Weighted HITS without component adjustment": 0.412165666240811,
+    "Unweighted HITS + component adjustment": 0.590404727489159,
+    "Unweighted HITS without component adjustment": 0.4038016078367127,
+    "Degree centrality": 0.8915918243586063,
+    "Equal-share brand volume": 0.9999999999999998
+  },
+  "observed_rho": 0.5732,
+  "permutation_tests": [
+    {
+      "test": "target_permutation",
+      "n_permutations": 1000,
+      "observed_rho": 0.5732,
+      "null_mean": -0.0011,
+      "null_sd": 0.0839,
+      "raw_p_value": 0.0,
+      "z_score": 6.845,
+      "holm_adjusted_p": 0.0
+    },
+    {
+      "test": "volume_permutation",
+      "n_permutations": 1000,
+      "observed_rho": 0.5732,
+      "null_mean": 0.4838,
+      "null_sd": 0.0275,
+      "raw_p_value": 0.001,
+      "z_score": 3.249,
+      "holm_adjusted_p": 0.002
+    },
+    {
+      "test": "edge_rewiring",
+      "n_permutations": 500,
+      "observed_rho": 0.5732,
+      "null_mean": 0.7732,
+      "null_sd": 0.0313,
+      "raw_p_value": 1.0,
+      "z_score": -6.384,
+      "holm_adjusted_p": 1.0
+    }
+  ]
+}
