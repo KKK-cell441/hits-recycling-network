@@ -1,0 +1,27 @@
+{
+  "source": "manuscript-reported synthetic recovery results",
+  "protocol": "200 synthetic networks; 200 stores; 100 brands; 3-8 noisy low-authority edges per store; brands with authority > 0.5 generate signal edges with probability 0.20 + 0.70*hub_star; brand supply q = 1 + 999*authority^4; uniform edge dropout at 0%, 20%, 40%.",
+  "results": {
+    "mean_spearman_0_dropout": {
+      "hits": 0.587,
+      "degree": 0.386
+    },
+    "mean_spearman_20_dropout": {
+      "hits": 0.506,
+      "degree": 0.337
+    },
+    "mean_spearman_40_dropout": {
+      "hits": 0.420,
+      "degree": 0.280
+    },
+    "top20_hit_rate": {
+      "hits": 0.354,
+      "degree": 0.258
+    },
+    "kendall_tau": {
+      "hits": 0.415,
+      "degree": 0.279
+    }
+  },
+  "status": "results recorded; original generation script was not retained in the local package"
+}

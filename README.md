@@ -16,9 +16,10 @@ through the public API using the included collectors.
   mechanism analysis, western extension, LCA inputs, dynamic policy
   sensitivity, and public data search.
 - `data/`: processed public validation records, official city-level battery
-  figures, store-ledger search results, and LCA indicator files.
+  figures, store-ledger search results, LCA indicator files, and processed
+  throughput/forecast workbooks.
 - `results/`: summary JSON/CSV outputs for the experiments reported in the
-  manuscript.
+  manuscript, including the paper-reported synthetic recovery results.
 
 ## Core analysis scripts
 
@@ -46,9 +47,12 @@ through the public API using the included collectors.
 - Store-level ledgers were not publicly available at the time of writing; the
   closest public evidence is documented in
   `data/Store_Ledger_Search_Report.md`.
+- Synthetic recovery results are recorded in
+  `results/synthetic_recovery_paper_results.json`; the original generation
+  script was not retained in the local package and should be reconstructed
+  before final submission if the repository is presented as fully runnable.
 
 ## Requirements
 
-The scripts use common Python packages including `numpy`, `scipy`, `pandas`,
-`networkx`, `sklearn`, `matplotlib`, and `torch` for the lightweight GNN
-baselines. Some search scripts require network access or an Amap API key.
+See `requirements.txt`. Some search scripts require network access or an
+Amap API key.
